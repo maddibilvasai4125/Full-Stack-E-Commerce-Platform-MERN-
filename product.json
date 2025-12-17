@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "PREMIUM (100gm)",
+        "price": 200,
+        "image": "public/img/c1.png"
+    },
+    {
+        "id": 2,
+        "name": "PREMIUM (250gm)",
+        "price": 250,
+        "image": "public/img/c1.png"
+    },
+    {
+        "id": 3,
+        "name": "CLASSIC (100gm)",
+        "price": 290,
+        "image": "public/img/c1.png"
+    },
+    {
+        "id": 4,
+        "name": "CLASSIC (250gm)",
+        "price": 200,
+        "image": "public/img/c1.png"
+    }
+
+]
+
+
