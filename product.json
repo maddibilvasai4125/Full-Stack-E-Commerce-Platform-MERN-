@@ -1,29 +1,114 @@
 [
-    {
-        "id": 1,
-        "name": "PREMIUM (100gm)",
-        "price": 200,
-        "image": "public/img/c1.png"
-    },
-    {
-        "id": 2,
-        "name": "PREMIUM (250gm)",
-        "price": 250,
-        "image": "public/img/c1.png"
-    },
-    {
-        "id": 3,
-        "name": "CLASSIC (100gm)",
-        "price": 290,
-        "image": "public/img/c1.png"
-    },
-    {
-        "id": 4,
-        "name": "CLASSIC (250gm)",
-        "price": 200,
-        "image": "public/img/c1.png"
-    }
-
+  {
+    "id": 1,
+    "name": "Premium Arabica Blend",
+    "price": 499,
+    "image": "img/c1.png",
+    "category": "blend",
+    "description": "Rich, smooth medium roast with caramel and chocolate notes. Our bestseller.",
+    "weight": "250g",
+    "roast": "Medium",
+    "origin": "Colombia & Brazil",
+    "inStock": true,
+    "rating": 4.8,
+    "reviews": 312
+  },
+  {
+    "id": 2,
+    "name": "Cold Brew Concentrate",
+    "price": 349,
+    "image": "img/c2.png",
+    "category": "cold",
+    "description": "Bold and refreshing cold brew concentrate. Dilute 1:2 with water or milk.",
+    "weight": "500ml",
+    "roast": "Dark",
+    "origin": "Ethiopia",
+    "inStock": true,
+    "rating": 4.6,
+    "reviews": 198
+  },
+  {
+    "id": 3,
+    "name": "Signature Espresso Roast",
+    "price": 599,
+    "image": "img/c3.png",
+    "category": "espresso",
+    "description": "Dark, intense roast crafted for espresso machines. Velvety crema guaranteed.",
+    "weight": "250g",
+    "roast": "Dark",
+    "origin": "Guatemala",
+    "inStock": true,
+    "rating": 4.9,
+    "reviews": 421
+  },
+  {
+    "id": 4,
+    "name": "Single Origin Ethiopia",
+    "price": 749,
+    "image": "img/c4.png",
+    "category": "origin",
+    "description": "Fruity and floral light roast from Yirgacheffe. Blueberry and jasmine notes.",
+    "weight": "200g",
+    "roast": "Light",
+    "origin": "Ethiopia – Yirgacheffe",
+    "inStock": true,
+    "rating": 4.7,
+    "reviews": 156
+  },
+  {
+    "id": 5,
+    "name": "Instant Coffee Powder 200g",
+    "price": 199,
+    "image": "img/c5.png",
+    "category": "instant",
+    "description": "Premium spray-dried instant blend. Ready in seconds, quality in every sip.",
+    "weight": "200g",
+    "roast": "Medium",
+    "origin": "South India",
+    "inStock": true,
+    "rating": 4.3,
+    "reviews": 589
+  },
+  {
+    "id": 6,
+    "name": "Decaf Mountain Blend",
+    "price": 449,
+    "image": "img/c6.png",
+    "category": "decaf",
+    "description": "All the rich flavour, zero caffeine. Perfect for evening sipping.",
+    "weight": "250g",
+    "roast": "Medium",
+    "origin": "Mexico",
+    "inStock": true,
+    "rating": 4.4,
+    "reviews": 87
+  },
+  {
+    "id": 7,
+    "name": "French Press Dark Roast",
+    "price": 399,
+    "image": "img/c7.png",
+    "category": "blend",
+    "description": "Bold, full-bodied blend crafted specifically for French press brewing.",
+    "weight": "250g",
+    "roast": "Dark",
+    "origin": "Indonesia & Vietnam",
+    "inStock": true,
+    "rating": 4.5,
+    "reviews": 243
+  },
+  {
+    "id": 8,
+    "name": "Brew-n-Fill Gift Box",
+    "price": 999,
+    "image": "img/c8.png",
+    "category": "gift",
+    "description": "A beautifully curated box of 4 premium blends. The perfect gift for coffee lovers.",
+    "weight": "4 × 100g",
+    "roast": "Assorted",
+    "origin": "Multi-origin",
+    "inStock": true,
+    "rating": 4.9,
+    "reviews": 134
+  }
 ]
-
-
