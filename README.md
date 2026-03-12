@@ -1053,3 +1053,4 @@ git push origin feature/amazing-feature
 *Smart E-Commerce: Streamlined Online Shopping with AI — Full-Stack-E-Commerce-Platform-MERN*
 
 </div>
+![Profile Views](https://komarev.com/ghpvc/?username=maddibilvasai4125&color=4169E1&style=flat-square&label=Profile+Views)
